@@ -4,6 +4,7 @@ import Demo from "./Demo";
 import Demo1 from "./Demo1";
 import Demo2 from "./Demo2";
 import Demo3 from "./Demo3";
+import { Demo4 } from "./Demo4";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Demo1 />
       <Demo2 />
       <Demo3 />
+      <Demo4 />
     </div>
   );
 }
