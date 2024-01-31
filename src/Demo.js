@@ -1,7 +1,7 @@
 import React from "react";
 
 const Demo = () => {
-  return <div>Hello GitHub</div>;
+  return <div>Hello Pravin</div>;
 };
 
 export default Demo;
